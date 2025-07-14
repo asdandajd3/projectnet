@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5YcJntq/CsQ=",
+  "success": true,
+  "projectFilePath": "D:\\Study\\gitnetcore\\gitnetcore\\gitnetcore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nhu Vu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
